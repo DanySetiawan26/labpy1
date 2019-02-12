@@ -1,15 +1,8 @@
 # labpy1
 Menentukan bilangan terbesar dari tiga buah bilangan yang di inputkan dari keyboard
 
-CODINGAN PROGRAM 1
+1.Mendefinisikan perulangan dengan mengetikkan 
 
-print (' _________________________________ ')
-print ('|                                 |')
-print ('|PROGRAM MENCARI BILANGAN TERBESAR|')
-print ('|_________________________________|')
-print ('                                   ')
-
-1.Mendefinisikan perulangan dengan mengetikkan ;
 def pengulangan():
 
 2.Memasukkan 3 bilangan yang anda inginkan ;
