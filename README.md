@@ -1,7 +1,7 @@
 # labpy1
 Menentukan bilangan terbesar dari tiga buah bilangan yang di inputkan dari keyboard
 
-1.Mendefinisikan perulangan dengan mengetikkan 
+1.Mendefinisikan perulangan dengan mengetikkan;
 
 def pengulangan():
 
@@ -13,6 +13,7 @@ def pengulangan():
     c=int(input('Bilangan Ketiga  : '))
 
 3.Membandingkan nilai a,b,c dengan rumus if ;
+
     if a>b:
         if a>c:
             print ('Bilangan terbesarnya adalah :',a)
@@ -24,7 +25,8 @@ def pengulangan():
         else:
             print ('Bilangan terbesarnya adalah :',c)
             
-4.Pilihan apa ingin mencoba lagi atau tidak
+4.Pilihan apa ingin mencoba lagi atau tidak;
+
     print ('')
     print ('Ingin coba lagi? (Y/T)')
     x=input()
